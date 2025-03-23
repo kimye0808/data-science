@@ -132,4 +132,14 @@ python 2025016242_albertkarlo_hw3.py input1.txt 8 15 22
 - **`main()`**: 입력 파일을 읽고, 클러스터링 후 상위 `n`개 클러스터를 크기 순으로 파일에 저장합니다.
 
 </details>
+
 ---
+
+<details>
+  <summary>코드 네이밍 규칙</summary>
+  
+  <sub><i>
+  이 프로젝트에서는 Python의 PEP 8 스타일 가이드에서 권장하는 snake_case 대신, camelCase를 사용했습니다. 이유는 개인적으로 camelCase에 더 익숙하고 편리하기 때문입니다. 저는 JavaScript나 Java와 같은 다른 언어에서 주로 camelCase를 사용해 왔기 때문에, 해당 스타일이 코드 작성 시 더 자연스럽게 느껴졌습니다. 따라서 이번 프로젝트에서는 코드 구현에 집중하기 위해 개인적으로 편한 방식인 camelCase를 선택했습니다. 그렇지만 Python에서는 PEP 8을 따르는 것이 중요하다는 것을 잘 알고 있으며, 앞으로는 Python의 표준에 맞는 네이밍 규칙을 적용할 계획입니다.
+  </i></sub>
+</details>
+
